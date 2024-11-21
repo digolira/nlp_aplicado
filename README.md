@@ -25,7 +25,7 @@ Técnicas aplicadas:
 Métodos explorados para transformar os textos em vetores numéricos:  
 - **Bag of Words (BoW)**  
 - **TF-IDF (Term Frequency-Inverse Document Frequency)**  
-- **Embeddings Tradicionais**: Word2Vec, GloVe  
+- **Embeddings Tradicionais**: GloVe  
 - **Doc2Vec**  
 - **Embeddings Pré-Treinados**: Modelos mais robustos para capturar semântica textual.  
 
